@@ -1,4 +1,4 @@
-**Analytic Class Incremental Learning for Sound Source Localization with Privacy Protection**
+### Analytic Class Incremental Learning for Sound Source Localization with Privacy Protection
 
 This repository contains the code for our proposed SSL-CIL method, a speaker localization method under Class Incremental Learning settings. [https://www.arxiv.org/pdf/2409.07224]
 
@@ -8,7 +8,7 @@ This repository contains the code for our proposed SSL-CIL method, a speaker loc
    
    (Remember to change the datapath)
 
-3. Simply run bash run_ours.sh to get the experimental results
+3. Simply run **bash run_ours.sh** to get the experimental results
 
 
 
